@@ -10,7 +10,7 @@
 🔗 **Reach me through:**  
 [![Website](https://img.shields.io/badge/🌐-Website-informational)](https://yourdudeken.github.io/)  
 [![Email](https://img.shields.io/badge/📧-Email-red)](mailto:kenmwendwamuthengi@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/💬-WhatsApp-green)](https://wa.me/25459142986)  
+[![WhatsApp](https://img.shields.io/badge/💬-WhatsApp-green)](https://wa.me/254759142986)  
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/yourdudeken)
 
 ---
@@ -39,13 +39,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourdudeken&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourdudeken&theme=dark" width="48%" />
 </p>
 
 ---
 
 ### 🏆 Achievements:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourdudeken&theme=onedark" />
 </p>
