@@ -16,10 +16,10 @@
 ---
 
 ### 🔥 My Recent Projects
-1. [Project One](https://github.com/yourusername/project1)
-2. [Project Two](https://github.com/yourusername/project2)
-3. [Project Three](https://github.com/yourusername/project3)
-4. [More Projects...](https://github.com/yourusername?tab=repositories)
+1. [Project One](https://github.com/yourdudeken/cloudtodo)
+2. [Project Two](https://github.com/yourdudeken/project)
+3. [Project Three](https://github.com/yourdudeken/javascript)
+4. [More Projects...](https://github.com/yourdudeken?tab=repositories)
 
 ---
 
