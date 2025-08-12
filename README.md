@@ -17,9 +17,8 @@
 
 ### 🔥 My Recent Projects
 1. [cloudtodo](https://github.com/yourdudeken/cloudtodo)
-2. [project](https://github.com/yourdudeken/project)
-3. [javascript](https://github.com/yourdudeken/javascript)
-4. [More Projects...](https://github.com/yourdudeken?tab=repositories)
+2. [cloudtodo](https://github.com/yourdudeken/cloudtodo)
+3. [More Projects...](https://github.com/yourdudeken?tab=repositories)
 
 ---
 
