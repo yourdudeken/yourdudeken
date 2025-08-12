@@ -17,7 +17,7 @@
 
 ### 🔥 My Recent Projects
 1. [cloudtodo](https://github.com/yourdudeken/cloudtodo)
-2. [cloudtodo](https://github.com/yourdudeken/cloudtodo)
+2. [NFTwalls](https://github.com/yourdudeken/NFTwalls)
 3. [More Projects...](https://github.com/yourdudeken?tab=repositories)
 
 ---
