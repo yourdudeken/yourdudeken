@@ -30,6 +30,7 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -111,7 +112,7 @@ A curated repository of open public APIs for developers. Includes a comprehensiv
 </details>
 
 <details>
-<summary><b>Yourdudeken</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/yourdudeken">Yourdudeken</a></b></summary>
 
 This very README! A space for my personal GitHub profile and collaboration information.
 </details>
