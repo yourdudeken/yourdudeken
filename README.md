@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourdudeken/yourdudeken/main/banner.png" alt="Yourdudeken GitHub Banner"/>
-  <img src="ken-photo.jpeg" alt="Kennedy Muthengi" width="150" style="border-radius:50%"/>
 </p>
 
 <p align="center">
@@ -13,6 +12,10 @@
   <a href="https://github.com/yourdudeken">
     <img src="https://img.shields.io/github/stars/yourdudeken?label=Stars&style=flat-square&color=blue" alt="GitHub Stars"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="public/ken-photo.jpeg" alt="Kennedy Muthengi" width="150" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hey there, I'm Kennedy Muthengi! 👋</h1>
