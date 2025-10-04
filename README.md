@@ -50,12 +50,22 @@ Here's a little something to quantify my journey:
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/yourdudeken">
+    <img src="https://github-profile-trophy.vercel.app/?username=yourdudeken&theme=tokyonight&row=1&column=7" alt="yourdudeken's trophies" />
+  </a>
+</p>
+
+---
+
 ### 💼 My Projects
 
 Here are some of the projects I'm proud of. You can find more on my repositories page.
 
 <details>
-<summary><b>Cloud-Based To-Do Application (cloudtodo)</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/cloudtodo">Cloud-Based To-Do Application (cloudtodo)</a></b></summary>
 
 A powerful and intuitive to-do application designed for modern productivity.
 
@@ -81,7 +91,7 @@ A powerful and intuitive to-do application designed for modern productivity.
 </details>
 
 <details>
-<summary><b>M-Pesa Callback</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/mpesa-callback">M-Pesa Callback</a></b></summary>
 
 A reusable Node.js + Firebase service for handling M-Pesa STK push callbacks securely and efficiently.
 
@@ -89,13 +99,13 @@ A reusable Node.js + Firebase service for handling M-Pesa STK push callbacks sec
 </details>
 
 <details>
-<summary><b>Photo App</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/photo-app">Photo App</a></b></summary>
 
 A simple yet elegant application for photo management. More details coming soon!
 </details>
 
 <details>
-<summary><b>Public APIs</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/public-apis">Public APIs</a></b></summary>
 
 A curated repository of open public APIs for developers. Includes a comprehensive contribution guide to encourage community involvement.
 </details>
@@ -107,7 +117,7 @@ This very README! A space for my personal GitHub profile and collaboration infor
 </details>
 
 <details>
-<summary><b>Yourdudeken.github.io</b></summary>
+<summary><b><a href="https://github.com/yourdudeken/yourdudeken.github.io">yourdudeken.com</a></b></summary>
 
 My personal portfolio website.
 
@@ -131,8 +141,8 @@ I believe in lifelong learning. Here's what's on my radar:
 I'm always open to connecting with other developers, creators, and tech enthusiasts. Feel free to reach out!
 
 <p align="left">
-  <a href="https://yourdudeken.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yourdudeken.github.io-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  <a href="https://yourdudeken.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yourdudeken.com-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
   <a href="mailto:kenmwendwamuthengi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-kenmwendwamuthengi-red?style=for-the-badge&logo=gmail" alt="Email"/>
