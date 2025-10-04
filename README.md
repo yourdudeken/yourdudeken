@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourdudeken/yourdudeken/main/banner.png" alt="Yourdudeken GitHub Banner"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/yourdudeken">
     <img src="https://komarev.com/ghpvc/?username=yourdudeken&color=blue&style=flat-square" alt="Profile Views"/>
   </a>
@@ -12,10 +8,6 @@
   <a href="https://github.com/yourdudeken">
     <img src="https://img.shields.io/github/stars/yourdudeken?label=Stars&style=flat-square&color=blue" alt="GitHub Stars"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="public/ken-photo.jpeg" alt="Kennedy Muthengi" width="150" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hey there, I'm Kennedy Muthengi! 👋</h1>
@@ -60,6 +52,9 @@
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=yourdudeken&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/yourdudeken">
+    <img src="https://wakatime.com/badge/user/4a1f8a63-1b3b-4b8a-8b4e-1b8b8b8b8b8b/project/4a1f8a63-1b3b-4b8a-8b4e-1b8b8b8b8b8b.svg" alt="WakaTime Stats"/>
   </a>
 </p>
 
@@ -107,6 +102,9 @@ I'm always open to new opportunities and collaborations.
   <a href="https://github.com/sponsors/yourdudeken">
     <img src="https://img.shields.io/badge/Sponsor-❤️-brightgreen?style=for-the-badge" alt="Sponsor"/>
   </a>
+  <a href="https://www.buymeacoffee.com/yourdudeken">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
 </p>
 
 ---
@@ -122,6 +120,9 @@ I'm always open to new opportunities and collaborations.
   </a>
   <a href="https://linkedin.com/in/yourdudeken" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-yourdudeken-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourdudeken" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@yourdudeken-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
