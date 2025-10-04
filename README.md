@@ -1,89 +1,150 @@
-# Kennedy Muthengi's Portfolio
+# Hey there, I'm Kennedy Muthengi! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a love for building innovative and user-friendly applications. Below you'll find a selection of my projects, showcasing my skills in various technologies.
-
-## 🚀 Let's Connect!
-
-I'm always open to collaborating on exciting projects. Feel free to reach out to me through any of the following channels:
-
-[![Website](https://img.shields.io/badge/🌐-Website-informational)](https://yourdudeken.github.io/)
-[![Email](https://img.shields.io/badge/📧-Email-red)](mailto:kenmwendwamuthengi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/💬-WhatsApp-green)](https://wa.me/254759142986)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/yourdudeken)
+Welcome to my digital garden! I'm **Yourdudeken** (also known as **Nikodiani**), a passionate full-stack developer from Nairobi, Kenya 🇰🇪. I specialize in building robust, scalable, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
-## Featured Projects
+### 🌍 About Me
 
-Here are some of the projects I'm proud to have worked on:
-
-### 1. Cloud-Based To-Do Application (cloudtodo)
-
-A modern task management application designed to help you organize your work and personal tasks with powerful collaborative features.
-
-**Key Features:**
-- ✅ Task management with priorities, due dates, and reminders
-- ✅ Multiple views: List, Calendar, and Kanban board
-- ✅ AI-powered task suggestions
-- ✅ Google Drive integration for file attachments
-- ✅ Real-time collaboration
-
-**Technologies Used:**
-- **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+-   🔭 I’m currently working on building a **Cloud-Based To-Do Application** with real-time collaboration features.
+-   🌱 I’m constantly learning and exploring new technologies. Right now, I'm diving deeper into **Serverless Architectures** and **Microservices**.
+-   👯 I’m looking to collaborate on open-source projects that make a positive impact.
+-   💬 Ask me about **JavaScript, TypeScript, React, Node.js, or anything tech-related**!
+-   ⚡ Fun fact: I believe a good cup of coffee can solve almost any coding bug. ☕
 
 ---
 
-### 2. M-Pesa Callback Service
+### 🧰 Tech Stack
 
-A production-ready, reusable M-Pesa callback processing service built for easy integration into multiple projects.
+Here are some of the technologies and tools I work with:
 
-**Key Features:**
-- **Project-agnostic:** Configurable for any project via environment variables.
-- **Secure and reliable:** Includes validation, error handling, and transaction management.
-- **Comprehensive logging:** Structured output for easy monitoring.
-- **Deployment-ready:** Supports Docker and PM2 for flexible deployment.
-
-**Technologies Used:**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-
----
-
-### 3. Personal Portfolio Website
-
-A clean, responsive, and customizable personal portfolio website that showcases my projects and skills.
-
-**[Live Demo](https://yourdudeken.github.io)**
-
-**Key Features:**
-- **Responsive Design:** Looks great on all devices.
-- **Light/Dark Theme:** Switch between light and dark modes.
-- **GitHub API Integration:** Automatically fetches and displays my GitHub repositories.
-
-**Technologies Used:**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-### 4. Public APIs Collection
+### 📊 GitHub Stats
 
-A curated list of free, open public APIs for developers to discover and use in their projects.
+Here's a little something to quantify my journey:
 
-**Key Features:**
-- **Categorized:** APIs are organized into categories for easy browsing.
-- **Well-documented:** Each API includes usage examples and authentication details.
-- **Community-driven:** Contributions are welcome to expand the collection.
-
----
-
-## My Technical Skills
-
-Here's a summary of the technologies I'm proficient in:
-
-- **Frontend:** React, TypeScript, Vite, Tailwind CSS, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express, Firebase, Supabase
-- **Tools:** Git, Docker, PM2, npm
+<p align="center">
+  <a href="https://github.com/yourdudeken">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourdudeken&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yourdudeken's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/yourdudeken">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourdudeken&layout=compact&theme=tokyonight&hide_border=true" alt="Yourdudeken's Top Languages" />
+  </a>
+</p>
 
 ---
 
-Thank you for visiting my profile!
+### 💼 My Projects
+
+Here are some of the projects I'm proud of. You can find more on my repositories page.
+
+<details>
+<summary><b>Cloud-Based To-Do Application (cloudtodo)</b></summary>
+
+A powerful and intuitive to-do application designed for modern productivity.
+
+-   **Features**:
+    -   ✅ Comprehensive Task Management (Create, Read, Update, Delete)
+    -   📅 Interactive Calendar View
+    -   📋 Kanban Board for workflow visualization
+    -   ☁️ Google Drive Integration for file attachments
+    -   🤖 AI-Powered Task Suggestions
+    -   👥 Real-time Collaboration with other users
+-   **Stack**: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Supabase, Google Drive API
+-   **Installation**:
+    1.  Clone the repository: `git clone https://github.com/yourdudeken/cloudtodo.git`
+    2.  Install dependencies: `npm install`
+    3.  Set up your `.env` variables.
+    4.  Run the development server: `npm run dev`
+-   **`.env` Variables**:
+    ```
+    VITE_SUPABASE_URL=YOUR_SUPABASE_URL
+    VITE_SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+    VITE_GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
+    ```
+</details>
+
+<details>
+<summary><b>M-Pesa Callback</b></summary>
+
+A reusable Node.js + Firebase service for handling M-Pesa STK push callbacks securely and efficiently.
+
+-   **Features**: Secure validation, modular structure, Docker/PM2 support, and multi-environment configurations.
+</details>
+
+<details>
+<summary><b>Photo App</b></summary>
+
+A simple yet elegant application for photo management. More details coming soon!
+</details>
+
+<details>
+<summary><b>Public APIs</b></summary>
+
+A curated repository of open public APIs for developers. Includes a comprehensive contribution guide to encourage community involvement.
+</details>
+
+<details>
+<summary><b>Yourdudeken</b></summary>
+
+This very README! A space for my personal GitHub profile and collaboration information.
+</details>
+
+<details>
+<summary><b>Yourdudeken.github.io</b></summary>
+
+My personal portfolio website.
+
+-   **Features**: Light/dark theme toggle, responsive design, GitHub API integration to showcase projects, and SEO optimization.
+</details>
+
+---
+
+### 🌱 Currently Learning
+
+I believe in lifelong learning. Here's what's on my radar:
+
+-   **Next.js**: For building production-grade React applications.
+-   **GraphQL**: To create more efficient and flexible APIs.
+-   **Kubernetes**: For orchestrating containerized applications at scale.
+
+---
+
+### 💬 Let’s Connect
+
+I'm always open to connecting with other developers, creators, and tech enthusiasts. Feel free to reach out!
+
+<p align="left">
+  <a href="https://yourdudeken.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yourdudeken.github.io-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+  </a>
+  <a href="mailto:kenmwendwamuthengi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-kenmwendwamuthengi-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://wa.me/254759142986" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+  <a href="https://linkedin.com/in/yourdudeken" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yourdudeken-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+✨ Thanks for visiting — let’s build something amazing together! 🚀
