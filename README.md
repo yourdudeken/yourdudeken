@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourdudeken/yourdudeken/main/banner.png" alt="Yourdudeken GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/yourdudeken/yourdudeken/ken-photo.jpeg" alt="Yourdudeken GitHub Banner"/>
 </p>
 
 <p align="center">
