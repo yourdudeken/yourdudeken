@@ -53,9 +53,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=yourdudeken&theme=vue-dark&hide_border=true" alt="GitHub Streak"/>
   </a>
-  <a href="https://github.com/yourdudeken">
-    <img src="https://wakatime.com/badge/user/4a1f8a63-1b3b-4b8a-8b4e-1b8b8b8b8b8b/project/4a1f8a63-1b3b-4b8a-8b4e-1b8b8b8b8b8b.svg" alt="WakaTime Stats"/>
-  </a>
 </p>
 
 ---
