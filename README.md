@@ -1,6 +1,6 @@
 # Hey there, I'm Kennedy Muthengi! 👋
 
-Welcome to my digital garden! I'm **Yourdudeken** (also known as **Nikodiani**), a passionate full-stack developer from Nairobi, Kenya 🇰🇪. I specialize in building robust, scalable, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+Welcome to my digital garden! I'm **Yourdudeken**, a passionate full-stack developer from Nairobi, Kenya 🇰🇪. I specialize in building robust, scalable, and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ---
 
