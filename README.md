@@ -17,7 +17,6 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 ## Current Focus
 
 - **Eventtik** - Scalable event ticketing platform
-- **DecentOdds** - Web3 prediction ecosystem
 - **SaaS Tools Suite** - Personal productivity applications
 
 ## Technical Skills
@@ -61,8 +60,8 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
   <a href="https://github.com/yourdudeken/cloudtodo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=cloudtodo&theme=tokyonight&hide_border=true" alt="Cloudtodo"/>
   </a>
-  <a href="https://github.com/yourdudeken/mpesa-callback">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=mpesa-callback&theme=tokyonight&hide_border=true" alt="M-Pesa Callback"/>
+  <a href="https://github.com/yourdudeken/mpesa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=mpesa&theme=tokyonight&hide_border=true" alt="M-Pesa API Package"/>
   </a>
 </p>
 
@@ -70,7 +69,6 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 - Built reusable Node.js backends for M-Pesa payment integrations
 - Developed AI-integrated productivity applications
-- Self-hosted DevOps infrastructure using Docker and Traefik
 - Contributed to multiple open-source projects
 
 ## Professional Services
