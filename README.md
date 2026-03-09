@@ -67,7 +67,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 ### Key Contributions
 
-- Built reusable Node.js backends for M-Pesa payment integrations
+- Built reusable php package for M-Pesa payment integrations
 - Developed AI-integrated productivity applications
 - Contributed to multiple open-source projects
 
