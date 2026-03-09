@@ -57,10 +57,10 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourdudeken/cloudtodo">
+  <a href="https://github.com/yourdudeken/capturenest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=cloudtodo&theme=tokyonight&hide_border=true" alt="Cloudtodo"/>
   </a>
-  <a href="https://github.com/yourdudeken/mpesa">
+  <a href="https://github.com/yourdudeken/wiregate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=mpesa&theme=tokyonight&hide_border=true" alt="M-Pesa API Package"/>
   </a>
 </p>
