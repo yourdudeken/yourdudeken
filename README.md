@@ -17,7 +17,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 ## Current Focus
 
 - **Eventtik** - Scalable event ticketing platform
-- **Cloudtodo** - Personal productivity applications
+- **Lipia** - M-pesa payment gateway
 
 ## Technical Skills
 
