@@ -67,7 +67,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 ### Key Contributions
 
-- Built reusable Multi-language SDK for Mpesa Daraja API.
+- Built reusable Multi-language SDK for Mpesa Daraja API
 - Developed AI-integrated productivity applications
 - Contributed to multiple open-source projects
 
