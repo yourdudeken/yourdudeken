@@ -60,8 +60,8 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
   <a href="https://github.com/yourdudeken/capturenest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=capturenest&theme=tokyonight&hide_border=true" alt="CaptureNest"/>
   </a>
-  <a href="https://github.com/yourdudeken/wiregate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=wiregate&theme=tokyonight&hide_border=true" alt="WireGate"/>
+  <a href="https://github.com/yourdudeken/mpesa-sdk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=mpesa-sdk&theme=tokyonight&hide_border=true" alt="mpesa-sdk"/>
   </a>
 </p>
 
