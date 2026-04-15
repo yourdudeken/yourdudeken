@@ -94,7 +94,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
     <img src="https://img.shields.io/badge/Twitter-@yourdudeken-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
   <a href="https://yourdudeken.github.io">
-    <img src="https://img.shields.io/badge/Website-yourdudeken.com-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-yourdudeken.github.io-blue?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
 </p>
 
