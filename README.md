@@ -61,7 +61,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=capturenest&theme=tokyonight&hide_border=true" alt="CaptureNest"/>
   </a>
   <a href="https://github.com/yourdudeken/cloudtodo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=cloudtodo&theme=tokyonight&hide_border=true" alt="cloudtodo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=cloudtodo&theme=tokyonight&hide_border=true" alt="CloudTodo"/>
   </a>
 </p>
 
