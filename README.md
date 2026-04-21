@@ -16,8 +16,8 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 ## Current Focus
 
-- **EventTik** - Scalable event ticketing platform
-- **CaptureNest** - AI-powered self-hosted multimedia journal
+- **[EventTik](https://www.eventtik.co.ke)** - Scalable event ticketing platform
+- **[CaptureNest](https://github.com/yourdudeken/captureNest)** - AI-powered self-hosted multimedia journal
 
 ## Technical Skills
 
