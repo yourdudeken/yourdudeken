@@ -76,7 +76,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 **Available for:**
 - Full-stack web application development
 - API design and backend architecture
-- Payment system integrations (M-Pesa, Stripe)
+- Payment system integrations (M-Pesa, Stripe, Paystack)
 - DevOps and infrastructure setup
 - Open-source collaboration
 - Technical consulting
