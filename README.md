@@ -27,7 +27,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
   </a>
 </p>
 
-**Languages:** JavaScript, TypeScript, Python, PHP, Go, Java, C#  
+**Languages:** JavaScript, TypeScript, SQL, Python, PHP, Go, Java, C#  
 **Frontend:** React, Next.js, Tailwind CSS, Vite  
 **Backend:** Node.js, Express, REST APIs, GraphQL  
 **Databases:** PostgreSQL, MongoDB, Redis, Supabase  
