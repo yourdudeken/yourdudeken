@@ -23,7 +23,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,react,nodejs,nextjs,express,docker,postgres,mongodb,redis,git,linux,tailwind,vite,supabase,firebase,gcp,aws,nginx,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go, python,react,nodejs,nextjs,express,docker,postgres,mongodb,redis,git,linux,tailwind,vite,supabase,firebase,gcp,aws,nginx,vscode" />
   </a>
 </p>
 
@@ -69,7 +69,6 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 - Built reusable Multi-language SDK for Mpesa Daraja API
 - Developed AI-integrated productivity applications
-- Contributed to multiple open-source projects
 
 ## Professional Services
 
