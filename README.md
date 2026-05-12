@@ -23,7 +23,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go, python,react,nodejs,nextjs,express,docker,postgres,mongodb,redis,git,linux,tailwind,vite,supabase,firebase,gcp,aws,nginx,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go, py,react,nodejs,nextjs,express,docker,postgres,mongodb,redis,git,linux,tailwind,vite,supabase,firebase,gcp,aws,nginx,vscode" />
   </a>
 </p>
 
