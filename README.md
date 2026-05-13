@@ -71,8 +71,6 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 - **[CaptureNest](https://github.com/yourdudeken/CaptureNest)** - AI-powered self-hosted multimedia journal
 - **[CloudTodo](https://github.com/yourdudeken/cloudtodo)** - Google Drive-based task management application
 - **[M-Pesa SDK](https://github.com/yourdudeken/mpesa-sdk)** - Multi-language SDK for Mpesa Daraja API
-- **[yourdudeken.github.io](https://github.com/yourdudeken/yourdudeken.github.io)** - Personal portfolio and project showcase
-- **[yourdudeken](https://github.com/yourdudeken/yourdudeken)** - GitHub profile repository
 
 ## Professional Services
 
