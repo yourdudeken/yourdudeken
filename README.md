@@ -18,7 +18,6 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 - **[EventTik](https://www.eventtik.co.ke)** - Scalable event ticketing platform
 - **[M-Pesa SDK](https://github.com/yourdudeken/mpesa-sdk)** - Multi-language SDK for Mpesa Daraja API
-- **[CaptureNest](https://github.com/yourdudeken/captureNest)** - AI-powered self-hosted multimedia journal
 
 ## Technical Skills
 
