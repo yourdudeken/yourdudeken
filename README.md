@@ -85,7 +85,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 <p align="center">
   <a href="mailto:kenmwendwamuthengi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kenmwendwamuthengi-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Kennedy Muthengi-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/yourdudeken">
     <img src="https://img.shields.io/badge/LinkedIn-yourdudeken-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
