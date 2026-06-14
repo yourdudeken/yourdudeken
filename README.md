@@ -27,12 +27,12 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
   </a>
 </p>
 
-**Languages:** JavaScript, TypeScript, SQL, Python, Go  
-**Frontend:** React, Next.js, Tailwind CSS, Vite  
-**Backend:** Node.js, Express, REST APIs, GraphQL  
-**Databases:** PostgreSQL, MongoDB, Redis, Supabase  
-**DevOps:** Docker, Nginx, Traefik, Linux, GCP, AWS  
-**Tools:** Git, VS Code, Postman, Firebase
+**Languages:** JavaScript, TypeScript, SQL, Python, Go.  
+**Frontend:** React, Next.js, Tailwind CSS, Vite.  
+**Backend:** Node.js, Express, REST APIs, GraphQL.  
+**Databases:** PostgreSQL, MongoDB, Redis, Supabase.  
+**DevOps:** Docker, Nginx, Traefik, Linux, GCP, AWS.  
+**Tools:** Git, VS Code, Postman, Firebase.
 
 ## GitHub Statistics
 
@@ -67,19 +67,19 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 ### Key Contributions
 
-- **[CaptureNest](https://github.com/yourdudeken/CaptureNest)** - AI-powered self-hosted multimedia journal
-- **[CloudTodo](https://github.com/yourdudeken/cloudtodo)** - Google Drive-based task management application
-- **[M-Pesa SDK](https://github.com/yourdudeken/mpesa-sdk)** - Multi-language SDK for Mpesa Daraja API
+- **[CaptureNest](https://github.com/yourdudeken/CaptureNest)** - AI-powered self-hosted multimedia journal.
+- **[CloudTodo](https://github.com/yourdudeken/cloudtodo)** - Google Drive-based task management application.
+- **[M-Pesa SDK](https://github.com/yourdudeken/mpesa-sdk)** - Multi-language SDK for Mpesa Daraja API.
 
 ## Professional Services
 
 **Available for:**
-- Full-stack web application development
-- API design and backend architecture
-- Payment system integrations (M-Pesa, Stripe, Paystack)
-- DevOps and infrastructure setup
-- Open-source collaboration
-- Technical consulting
+- Full-stack web application development.
+- API design and backend architecture.
+- Payment system integrations (M-Pesa, Stripe, Paystack).
+- DevOps and infrastructure setup.
+- Open-source collaboration.
+- Technical consulting.
 
 ## Contact
 
