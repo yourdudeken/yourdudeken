@@ -66,7 +66,7 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
 
 ### Key Contributions
 
-- **[CaptureNest](https://github.com/yourdudeken/CaptureNest)** - AI-powered self-hosted multimedia journal.
+- **[CaptureNest](https://github.com/yourdudeken/capturenest)** - AI-powered self-hosted multimedia journal.
 - **[CloudTodo](https://github.com/yourdudeken/cloudtodo)** - Google Drive-based task management application.
 
 ## Professional Services
