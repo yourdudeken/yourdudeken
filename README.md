@@ -59,15 +59,15 @@ Full-stack developer from Nairobi, Kenya, specializing in building robust, scala
   <a href="https://github.com/yourdudeken/capturenest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=capturenest&theme=tokyonight&hide_border=true" alt="CaptureNest"/>
   </a>
-  <a href="https://github.com/yourdudeken/cloudtodo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=cloudtodo&theme=tokyonight&hide_border=true" alt="CloudTodo"/>
+  <a href="https://github.com/yourdudeken/driveos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourdudeken&repo=driveos&theme=tokyonight&hide_border=true" alt="DriveOS"/>
   </a>
 </p>
 
 ### Key Contributions
 
 - **[CaptureNest](https://github.com/yourdudeken/capturenest)** - AI-powered self-hosted multimedia journal.
-- **[CloudTodo](https://github.com/yourdudeken/cloudtodo)** - Google Drive-based task management application.
+- **[DriveOS](https://github.com/yourdudeken/driveos)** - Google Drive-based task management application.
 
 ## Professional Services
 
